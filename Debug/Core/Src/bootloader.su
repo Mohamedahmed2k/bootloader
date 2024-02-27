@@ -1,0 +1,14 @@
+../Core/Src/bootloader.c:26:6:BL_SendMessage	112	static
+../Core/Src/bootloader.c:37:13:CBL_GET_Version	32	static
+../Core/Src/bootloader.c:55:13:CBL_GET_Help	32	static
+../Core/Src/bootloader.c:81:13:CBL_GET_Chip_Identification_Number	32	static
+../Core/Src/bootloader.c:100:13:CBL_Flash_Erase	32	static
+../Core/Src/bootloader.c:120:13:CBL_Write_Data	32	static
+../Core/Src/bootloader.c:153:16:BL_Address_Verification	24	static
+../Core/Src/bootloader.c:172:13:bootloader_jump_to_user_app	48	static,ignoring_inline_asm
+../Core/Src/bootloader.c:214:11:BL_FetchCmd	16	static
+../Core/Src/bootloader.c:254:13:BL_Send_ACK	24	static
+../Core/Src/bootloader.c:264:13:BL_Send_NACK	16	static
+../Core/Src/bootloader.c:270:17:BL_CRC_Verify	40	static
+../Core/Src/bootloader.c:291:16:Perform_Flash_Erase	40	static
+../Core/Src/bootloader.c:341:16:FlashMemory_Write	48	static
