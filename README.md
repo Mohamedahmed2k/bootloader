@@ -1,4 +1,4 @@
-# STM32 Blue Pill Bootloader Project README
+# STM32 Blue Pill Bootloader Project
 
 ## Introduction
 This README provides comprehensive instructions for setting up a bootloader on the *STM32 Blue Pill* microcontroller. The guide covers the setup process, connections, and instructions for flashing the bootloader, enabling programming via the micro USB port.
